@@ -1,0 +1,24 @@
+{
+  "name": "fblogin_oauth",
+  "homepage": "https://github.com/him1288/regex",
+  "authors": [
+    "Himanshu Verma <himanshu.verma@sd2labs.com>"
+  ],
+  "description": "trying for the first time",
+  "main": "main.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "facebook"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
